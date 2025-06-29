@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSLocationUsageDescription</key>
+	<string>Your location helps personalize your experience by showing relevant info based on where you are.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>We need access to your photos to let you choose clothing items.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We use your location to display your current city and country.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Montserrat-ExtraLight.ttf</string>
+		<string>Montserrat-Light.ttf</string>
+		<string>Montserrat-Medium.ttf</string>
+		<string>Montserrat-Regular.ttf</string>
+		<string>Montserrat-SemiBold.ttf</string>
+	</array>
+</dict>
+</plist>
